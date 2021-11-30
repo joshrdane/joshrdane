@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshrdane;
 - 👀 I’m interested in programmming;
-- 🌱 I’m currently learning C#;
+- 🌱 I’m currently improving my skills;
 - 💞️ I’m looking to collaborate on anything;
 - 📫 How to reach me -> here;
